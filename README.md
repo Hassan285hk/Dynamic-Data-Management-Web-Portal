@@ -39,17 +39,29 @@ Basic Frontend (HTML Forms, Tables)
 **mywebsite/**
 │
 ├── index.php             # Home page
+
 ├── login.php             # Login form
+
 ├── register.php          # Registration form
+
 ├── dashboard.php         # Admin/User dashboard
+
 ├── db.php                # Database connection
+
 ├── copy_data.php         # Data copy utility
+
 ├── live_count.php        # Real-time data count
+
 ├── search_member.php     # Search functionality
+
 ├── /entry/               # Insert & save data scripts
+
 ├── /show/                # Display units & data views
+
 ├── /scheck/              # Sample forms & insert logic
+
 ├── /fonts/               # Urdu font files
+
 ├── unit1.php ... unit11.php   # Unit-specific pages
 
 💡 **How to Run**
