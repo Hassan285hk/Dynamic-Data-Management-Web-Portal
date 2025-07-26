@@ -68,8 +68,6 @@ Basic Frontend (HTML Forms, Tables)
 
 Clone this repo:
 
-git clone https://github.com/yourusername/your-repo-name.git
-
 Set up a local server (e.g., XAMPP, WAMP, or MAMP).
 
 Import the database (db.php includes connection details — create a matching DB).
